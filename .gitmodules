@@ -1,0 +1,4 @@
+[submodule "odoo-modules"]
+	path = odoo-modules
+	url = git@github.com:jeremiahjmiller/odoo-modules.git
+	branch = master
